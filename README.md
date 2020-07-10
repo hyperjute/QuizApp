@@ -1,4 +1,4 @@
-# LearningFlutter
+# Quiz App V1
 
 This is my first Flutter App.
 
