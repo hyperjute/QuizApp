@@ -1,4 +1,4 @@
-#Sat Jul 11 00:44:15 SGT 2020
+#Mon Jul 13 02:14:31 SGT 2020
 base.0=D\:\\Flutter Projects\\LearningFlutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
