@@ -1,6 +1,8 @@
-# LearningFlutter
+# Quiz App V1
 
-A new Flutter project.
+This is my first Flutter App.
+
+Quiz App v1
 
 ## Getting Started
 
